@@ -94,7 +94,7 @@ In this task, install the Web Server role on the server on the Virtual Machine y
 
     ![Screenshot of the Azure portal virtual machine property pane with the IP address copied.](../images/0107.png)
 
-5. The default IIS Web Server welcome page will be displayed.
+5. The default IIS Web Server welcome page will be displayed. And you will see the default page
 
     ![Screenshot of the default IIS web server welcome page being accessed via the public ip address in a web browser.](../images/0108.png)
 
